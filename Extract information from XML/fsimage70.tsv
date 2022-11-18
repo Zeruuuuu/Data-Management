@@ -1,0 +1,9 @@
+	Path	Modification Time	BlocksCount	FileSize	Permission
+0	/	9/5/2022 22:59	0	0	drwxr-xr-x
+1	/user	9/7/2022 1:18	0	0	drwxr-xr-x
+2	/user/john	9/6/2022 20:05	0	0	drwxr-xr-x
+3	/user/john/a	9/6/2022 20:07	0	0	drwxr-xr-x
+4	/user/john/WordCount.java	9/6/2022 20:05	1	3269	-rw-r--r--
+5	/user/mary	9/7/2022 1:19	0	0	drwxr-xr-x
+6	/user/mary/a	9/7/2022 1:20	0	0	drwxr-xr-x
+7	/user/mary/a/hello.txt	9/7/2022 1:20	1	12	-rw-r--r--
